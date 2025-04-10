@@ -17,6 +17,20 @@ pip install opencv-contrib-python
 * Image Transformations 
 * Contour Detection
 
+## 3. Advanced Concepts:
+* Switching between Colour Spaces (RGB, BGR, Grayscale, HSV and Lab)
+* Splitting and Merging Colour Channels
+* Blurring
+* BITWISE operations
+* Masking
+* Histogram Computation
+* Thresholding/Binarizing Images
+* Advanced Edge Detection
+
+## 4. Face Detection and Recognition
+* Face Detection using Haar Cascades
+* Face Recognition using OpenCV's LBPHFaceRecognizer algorithm
 
 
-
+## Credits
+The images in the Photos and Videos folders were downloaded from free stock image and videos site like [unsplash](https://unsplash.com/), [pixabay](https://pixabay.com/).
