@@ -1,6 +1,6 @@
 import cv2 as cv
 
-capture = cv.VideoCapture('Videos/Dog.mp4')
+capture = cv.VideoCapture('../Resources/Videos/Dog.mp4')
 
 if not capture.isOpened():
     print("Error opening video file")
@@ -8,9 +8,9 @@ if not capture.isOpened():
 
 while True:
     isTrue , Frame = capture.read()
-    cv.imshow('Video that is displaying' , Frame)
+    cv.imshow('Video is Playing' , Frame)
 
-    if cv.waitKey(10) & 0xff == ord(' '):
+    if cv.waitKey(10) & 0xff == ord('q'):
         break
 
 capture.release()
