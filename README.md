@@ -7,6 +7,7 @@ Let's start learning OpenCV together.
 To install OpenCV Library in python, open Command Prompt in your PC and then type the below code.
 ```bash
 pip install opencv-contrib-python
+```
 
 ## 2. Basic Concepts:
 * Reading Images and Video
