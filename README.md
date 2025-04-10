@@ -33,4 +33,4 @@ pip install opencv-contrib-python
 
 
 ## Credits
-The images in the Photos and Videos folders were downloaded from free stock image and videos site like [unsplash](https://unsplash.com/), [pixabay](https://pixabay.com/).
+The images in the Photos and Videos folders were downloaded from free stock image and videos site like [unsplash](https://unsplash.com/) and [pixabay](https://pixabay.com/).
